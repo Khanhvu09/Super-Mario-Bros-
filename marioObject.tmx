@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.1" orientation="orthogonal" renderorder="right-down" width="424" height="29" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="19">
+ <tileset firstgid="1" name="20592 (1)" tilewidth="16" tileheight="16" tilecount="0" columns="424">
+  <image source="20592 (1).png" width="6784" height="920"/>
+ </tileset>
+ <objectgroup id="2" name="Tube">
+  <object id="1" name="Tube 1" x="896" y="337" width="63" height="63"/>
+  <object id="2" name="Tube 2" x="1217" y="305" width="62" height="96"/>
+  <object id="3" name="Tube 3" x="1473" y="273" width="62" height="127"/>
+  <object id="4" name="Tube 4" x="1825" y="273" width="61" height="127"/>
+  <object id="6" name="Tube 5" x="5217" y="337" width="62" height="63"/>
+  <object id="7" name="Tube 6" x="5728" y="337" width="63" height="63"/>
+ </objectgroup>
+ <objectgroup id="3" name="Ground ">
+  <object id="8" name="Ground 1" x="0" y="400" width="2208" height="64"/>
+  <object id="9" name="Ground 2" x="2271" y="400" width="481" height="64"/>
+  <object id="10" name="Ground 3" x="2847" y="400" width="2049" height="64"/>
+  <object id="13" name="Ground 4" x="4960" y="400" width="1824" height="64"/>
+  <object id="14" name="Flag tile" x="6336" y="368" width="32" height="32"/>
+  <object id="17" name="Flag Pole" x="6350" y="80" width="4" height="288"/>
+  <object id="18" name="Flag Pole" x="6344" y="65" width="16" height="14"/>
+ </objectgroup>
+</map>
